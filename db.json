@@ -13,8 +13,8 @@
   "phoneExt": "+88",
   "fax": "4645656",
   "mailCode": "123",
-  "latitude": "88.343434",
-  "longitude": "89.4643654",
+  "latitude": 88.343434,
+  "longitude": 89.4643654,
   "weatherStation": "Weather Station Agargaon Dhaka",
   "propertyType": "Land",
   "buildingCount": 2,
@@ -31,6 +31,6 @@
   "countEvParking": 77,
   "countBicycleParking": 88,
   "caPercentage": 99,
-  "irrigation": "Irrigation",
+  "irrigation": true,
   "status": 1 
 }
